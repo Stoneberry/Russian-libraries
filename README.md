@@ -1,5 +1,8 @@
 # Russian-libraries
 
+Colab (yargy + udpipe)
+https://colab.research.google.com/drive/1uH1QMAyEZBtTJrpdrjbk8mbsnpByHpwT
+
 
 ## Статистика 
 
